@@ -372,7 +372,7 @@ Dropout을 적용한 다층 퍼셉트론(MLP) 구조를 설계하고,
 객관적으로 확인하기 위한 단계로서 의미를 가진다.
 
 
-![민준 - 데이터 과학 프로젝트 보고서 -범죄 데이터 다중분류 딥러닝 모델 (학습 O)](https://github.com/CHOMINJUN-127/Deep-Learning-Based-Crime-Risk-Prediction/blob/main/%EB%AF%BC%EC%A4%80%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%BC%ED%95%99%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20-%EB%B2%94%EC%A3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AA%A8%EB%8D%B8%20(%ED%95%99%EC%8A%B5%20X).png)
+![민준 - 데이터 과학 프로젝트 보고서 -범죄 데이터 다중분류 딥러닝 모델 (학습 O)](https://github.com/CHOMINJUN-127/Deep-Learning-Based-Crime-Risk-Prediction/blob/main/%EB%AF%BC%EC%A4%80%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%BC%ED%95%99%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20-%EB%B2%94%EC%A3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AA%A8%EB%8D%B8%20(%ED%95%99%EC%8A%B5%20O).png)
 
 
 
